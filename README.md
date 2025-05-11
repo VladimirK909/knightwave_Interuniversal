@@ -59,13 +59,13 @@ To use this repository, ensure you have the following:
 ## Repository Structure
 
 .
-├── tutorials/ # Pre-run notebook with visualizations and explanations of solution.
+├── INTEGRATED.ipynb # Pre-run notebook with visualizations and explanations of solution.
 ├── main.py              
 ├── portfolio.py                
-├── quantum_subroutine.py    # The quantum module
-├── asset_screening.py             # The main classical module
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
+├── quantum_subroutine.py # The quantum module
+├── asset_screening.py # The main classical module
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
 
 
 
