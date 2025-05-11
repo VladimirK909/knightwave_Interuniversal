@@ -438,7 +438,7 @@ pyogrio==0.10.0
 pyomo==6.9.2
 PyOpenGL==3.1.9
 pyOpenSSL==24.2.1
-pyparsing==3.2.3
+pyparsing
 pyperclip==1.9.0
 pyportfolioopt==1.5.6
 pyproj==3.7.1
