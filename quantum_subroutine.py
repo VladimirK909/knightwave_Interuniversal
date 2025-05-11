@@ -14,9 +14,6 @@ from qiskit.primitives import Sampler
 
 
 def data_loader(input_data):
-    data = input_data["data"]
-    input_data = data
-
     num_assets = input_data['num_assets']
     assets = input_data['assets']
     df = pd.DataFrame()
